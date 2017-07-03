@@ -2,7 +2,7 @@
 Implementation of a ParallelGaussianSolver with REST service endpoints and database<br/>
 
 ### Technologies
-Application: Spring, SpringBoot
+Application: Spring, SpringBoot  <br />
 Frontend: Spring Rest, Apache Tomcat <br />
 Calculation: Parallel Gaussian Solver <br />
 Database: MySQL <br />
